@@ -94,13 +94,6 @@
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
             alt="postgresql" width="40" height="40" /> </a> </p>
-<img src="https://raw.githubusercontent.com/anshu31s/anshu31s/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/anshu31s/count.svg?"  />
-</div>
 
 ###
 

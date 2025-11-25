@@ -15,8 +15,6 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Anshukiran sharma</h1>
-
 <h2 align="left">About me</h2>
 
 ###

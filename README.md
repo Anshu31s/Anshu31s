@@ -33,10 +33,4 @@ Tech Stack: Languages & Frameworks: JavaScript, TypeScript, Node.js, Python, Rea
   
 </p>
 
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu31s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-
 ###
